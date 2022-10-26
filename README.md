@@ -1,4 +1,5 @@
-#GoogleSheetCRUD
+
+<h2><i>GoogleSheetCRUD</i></h2>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h3>Languages</h3>
